@@ -1,0 +1,11 @@
+fyers-apiv3
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+
+# Live scanner additions
+apscheduler
+pytz
+twilio
