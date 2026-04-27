@@ -5,7 +5,7 @@
 # =============================================================================
 
 # ── CHOOSE YOUR NOTIFICATION CHANNEL ─────────────────────────────────────────
-# Set True for the channels you want to use
+# Set True for the channels you want to us
 TELEGRAM_ENABLED  = True
 WHATSAPP_ENABLED  = False   # Requires Twilio account (see setup below)
 
