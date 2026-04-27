@@ -15,8 +15,8 @@ WHATSAPP_ENABLED  = False   # Requires Twilio account (see setup below)
 # Step 3: Start a chat with your bot, then visit:
 #         https://api.telegram.org/bot<TOKEN>/getUpdates
 #         to get your chat_id
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN"         # e.g. "123456789:ABCdef..."
-TELEGRAM_CHAT_ID   = "YOUR_CHAT_ID"           # e.g. "987654321"
+TELEGRAM_BOT_TOKEN = "8405179631:AAEki-rU6ZFhj8rN7orErPzmC3LWZDlEuFI"         # e.g. "123456789:ABCdef..."
+TELEGRAM_CHAT_ID   = "952676886"            # e.g. "987654321"
                                                # For group: "-100123456789"
 
 # ── WHATSAPP SETUP (via Twilio) ───────────────────────────────────────────────
